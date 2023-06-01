@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kawanishi2023)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=kawanishi2023)](https://git.io/streak-stats)
+
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kawanishi2023&show_icons=true&theme=graywhite)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanishi2023&layout=compact&theme=graywhite)
 
