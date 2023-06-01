@@ -1,6 +1,7 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=zizi4n5&show_icons=true)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kawanishi2023&show_icons=true)
+![Top Languages Card](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanishi2023)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kawanishi2023&theme=oldie&column=7)](https://github.com/ryo-ma/github-profile-trophy)
