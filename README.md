@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kawanishi2023&show_icons=true&theme=oldie)
-![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanishi2023&layout=compact&theme=oldie)
+![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kawanishi2023&show_icons=true&theme=graywhite)
+![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanishi2023&layout=compact&theme=graywhite)
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kawanishi2023&theme=oldie&column=7)](https://github.com/ryo-ma/github-profile-trophy)
