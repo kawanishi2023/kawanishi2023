@@ -4,6 +4,15 @@
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanishi2023&layout=compact&theme=graywhite)
 
 
+
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api?username=kawanishi2023&count_private=true&show_icons=true" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats">
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kawanishi2023" />
+</a>
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kawanishi2023&theme=oldie&column=7)](https://github.com/ryo-ma/github-profile-trophy)
 
 <!--
