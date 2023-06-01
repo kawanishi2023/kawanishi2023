@@ -1,7 +1,7 @@
 ### Hi there 👋, Im Kawanishi
 
 
-
+![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawanishi2023&theme=graywhite)
 ![GitHub Stats Card](https://github-readme-stats.vercel.app/api?username=kawanishi2023&show_icons=true&theme=graywhite&line_height=20)
 ![Top Languages Card (Compact layout)](https://github-readme-stats.vercel.app/api/top-langs/?username=kawanishi2023&layout=compact&theme=graywhite)
 
@@ -22,6 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-
-<!-- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=contiki9&theme=vue) -->
