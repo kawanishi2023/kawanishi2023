@@ -1,4 +1,4 @@
-### Hi there 👋, Im Yusuke🎸🎶
+### Hi there 👋, Im Yusuke🎸
 🌱 I’m currently learning ruby 💎
 
 
