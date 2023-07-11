@@ -1,5 +1,5 @@
 ### Hi there 👋, Im Yusuke🎸
-🌱 I’m currently learning ruby 💎✨
+🌱 I’m currently learning ruby 💎
 
 
 <!-- ![graph](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kawanishi2023&theme=graywhite) -->
